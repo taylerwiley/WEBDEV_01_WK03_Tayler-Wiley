@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(166, 237, 100);
+}
+
+.hero {
+width: 100vw;
+height: calc(100vh - 56px);
+background-color: burlywood;
+position: relative;
+background: url('../images/marek-piwnicki-CbsavvLP-Dc-unsplash.jpg');
+background-size: cover;
+background-position: center;
+background-repeat: none;
+}
+
+.hero-text{
+    color: antiquewhite;
+}
+
+.hero-text h1{
+    font-size: 4.5rem;
+    margin-top: -3.1em;
+}
+
+.hero-text p{
+    margin-top: -0.5em;
+}
